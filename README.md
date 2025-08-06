@@ -13,7 +13,7 @@
  <img src="https://skillicons.dev/icons?i=git,aws,figma,github,html,java,js,mysql,py,css&perline=14" />
 
 <!--Github Readme Stats-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelrcha&show_icons=true&theme=dark&locale=en&layout=compact" alt="miguelrcha" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrcha&show_icons=true&theme=dark&locale=en" alt="miguelrcha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelrcha&show_icons=true&theme=tokyonight &locale=en&layout=compact" alt="miguelrcha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrcha&show_icons=true&theme=tokyonight &locale=en" alt="miguelrcha" /></p>
 
 
