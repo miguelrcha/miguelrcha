@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Miguel Rocha
 
-<!--Intro start-->
+<!--Intro start
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
@@ -13,5 +13,5 @@
 
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitat-->e to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
