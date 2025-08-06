@@ -2,7 +2,7 @@
 <h1>Hi there 👋, I'm Miguel Rocha</h1>
 
 <!--About me-->
-<h3 align="left">About Me:</h3>
+<strong>About Me</strong>
 
 - 🔭 I'm currently working with **Java, Python, Azure, Python, and Data Science.**
 - 🌱 I'm currently learning **python automation, Java/Spring Boot and AWS applications**
