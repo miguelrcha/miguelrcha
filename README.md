@@ -1,4 +1,8 @@
-## Hi there 👋, I'm Miguel Rocha
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there 👋, I'm Miguel Rocha</h1></summary>
+  </ul>
+</div>
 
 <!--Intro start
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
