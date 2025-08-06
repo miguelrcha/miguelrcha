@@ -20,7 +20,8 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<br/>
+
+<br/><br/><br/>
 
 <!--Github Readme Stats-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelrcha&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="miguelrcha" /></p>
