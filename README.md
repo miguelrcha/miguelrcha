@@ -1,5 +1,5 @@
 <!--Title-->
-<h1 align="center">Hi there 👋, I'm Miguel Rocha</h1>
+<h1>Hi there 👋, I'm Miguel Rocha</h1>
 
 <!--About me-->
 <strong>About Me</strong>
