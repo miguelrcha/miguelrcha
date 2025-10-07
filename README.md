@@ -4,7 +4,7 @@
 <!--About me-->
 <strong>About Me</strong>
 
-- 🔭 I'm currently working with **Java, Python, Azure, Python, and Data Science.**
+- 🔭 I'm currently working with **Java, Azure, Python, and Data Science.**
 - 🌱 I'm currently learning **python automation, Java/Spring Boot and AWS applications**
 - ☁️I'm very interested in cloud computing, so I'm learning **AWS and Java.**
 - 📚 Languages **Brazillian native / English B1.**
