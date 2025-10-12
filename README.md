@@ -1,7 +1,6 @@
-<!--Title-->
+
 <h1>Hi there 👋, I'm Miguel Rocha</h1>
 
-<!--About me-->
 <strong>About Me</strong>
 
 - 🔭 I'm currently working with **Java, Azure, Python, and Data Science.**
