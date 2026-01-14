@@ -24,6 +24,8 @@
  <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<img align="left" alt="Dataverse" width="30px" style="padding-right:10px; "src="https://learn.microsoft.com/media/logos/dataverse/dataverse.svg"/>
+
 <!--Github Readme Stats
 <br/><br/>
 
