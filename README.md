@@ -3,7 +3,7 @@
 
 <strong>About Me</strong>
 
-- 🔭 I'm currently working with **Azure, Python, and Data Science.**
+- 🔭 I'm currently working with **Dataverse, Power Plataform, and Java.**
 - 🌱 I'm currently learning **Java/Spring Boot and AWS applications**
 - ☁️I'm very interested in cloud computing, so I'm learning **AWS**
 - 📚 Languages **Brazillian native / English A2-B1.**
