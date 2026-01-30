@@ -30,6 +30,6 @@
 
 <!--Github Readme Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelrcha&showicons=true&theme=github_dark&locale=en&layout=compac" alt="miguelrch" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrcha&show_icons=true&theme=github_dark&locale=en" alt="miuel" /</p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrcha&show_icons=true&theme=github_dark&locale=en" alt="miul" /</p>-->
 
 
