@@ -2,7 +2,7 @@
 
 **`Software Engineer Student`**
 
-I’m a systems development technial, software engineering student focused on backend development and cloud solutions. I currently work with Dataverse, Power Platform and Java, and I’m learning Java with Spring Boot as well as AWS applications. I’m especially interested in Cloud Computing and continuously improving my skills in the AWS ecosystem. I speak Brazilian Portuguese as my native language and have an A2–B1 level in English.
+I’m a systems development technical, software engineering student focused on backend development and cloud solutions. I currently work with Dataverse, Power Platform and Java, and I’m learning Java with Spring Boot as well as AWS applications. I’m especially interested in Cloud Computing and continuously improving my skills in the AWS ecosystem. I speak Brazilian Portuguese as my native language and have an A2–B1 level in English.
 
 ---
 
