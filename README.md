@@ -6,7 +6,7 @@ I’m a systems development technical, software engineering student focused on b
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Swoft" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
