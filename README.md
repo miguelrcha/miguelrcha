@@ -1,4 +1,3 @@
-# Miguel Rocha
 
 **`System Development Technical / Software Engineer Student`**
 
