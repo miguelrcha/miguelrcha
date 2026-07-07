@@ -1,4 +1,10 @@
-# Hi there, I'm Miguel Rocha👋
+<h1> Hi there, I'm Miguel Rocha👋 </h1>
+
+### 🚀 Projects
+
+**[Folio](app-foliohq.vercel.app)** — Turn your GitHub into a professional resume with AI</br>
+`Currently in Beta` · `built in 4 day`
+
 
 ### 🧰 Languages and Tools
 
