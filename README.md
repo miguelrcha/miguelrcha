@@ -2,7 +2,7 @@
 
 ### 🚀 Projects
 
-**[Folio](https://app-foliohq.vercel.app/)** — Turn your GitHub into a professional resume with AI</br>
+**[Folio](https://meufolio.dev/)** — Turn your GitHub into a professional resume with AI</br>
 `Currently in Beta` · `built in 4 day`
 
 
