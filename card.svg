@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="900px" height="600px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" font-family="ConsolasFallback,Consolas,monospace" width="980px" height="560px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,70 +15,79 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="900px" height="600px" fill="#161b22" rx="15"/>
-<text x="15" y="0" fill="#c9d1d9" font-size="10.05px" font-family="monospace" letter-spacing="0">
-<tspan x="15" y="14.00"> @@@@@@@@                               </tspan>
-<tspan x="15" y="28.33">                          @@@@@@@@@@ #@@@ @*%@@                     </tspan>
-<tspan x="15" y="42.67">                        -@@@@@@@- :@#:#@@@%@@@@@                    </tspan>
-<tspan x="15" y="57.00">                      *@@@@@@= :@+:@@  @@+=:  :                     </tspan>
-<tspan x="15" y="71.33">                     .@+      @* .:   .@@@@@@@+@%                   </tspan>
-<tspan x="15" y="85.67">                    %@      : .%   +@@   +*  @@@@                   </tspan>
-<tspan x="15" y="100.00">                   #@# -. %@:         *  :@@+  @@+                  </tspan>
-<tspan x="15" y="114.33">                   :     .@* ..  @@#@@% *     =@ @                  </tspan>
-<tspan x="15" y="128.67">                      .  @@@*-*@@@@@@@@@@@@@@@  :@@                 </tspan>
-<tspan x="15" y="143.00">                     :  @@@%@@@@@@@@@@@@@@@@@@@@ *@                 </tspan>
-<tspan x="15" y="157.33">                     ==@-       :@@@@ @    .@@@:@@@                 </tspan>
-<tspan x="15" y="171.67">                      . *@@@@@@%       ..#@@@   .                   </tspan>
-<tspan x="15" y="186.00">                       @:= =    : @@      @@@@ +:@                  </tspan>
-<tspan x="15" y="200.33">                    @@ @ *#@@@-@% @@@@@@@@@@@@#@@+                  </tspan>
-<tspan x="15" y="214.67">                     @@@*%#-..*  @@@@@%@@@@@@@@@@                   </tspan>
-<tspan x="15" y="229.00">                       @#*=+@@=@@ =@ @@@@.- @@@+@                   </tspan>
-<tspan x="15" y="243.33">                     @@@*+#@ %@#+     *%@@@@@@@@@                   </tspan>
-<tspan x="15" y="257.67">                      @@%%##@@    #@@@@@@@@@@@@@     *              </tspan>
-<tspan x="15" y="272.00">                      @@@+%#  =@@@@@# @.@@@@@@        *@            </tspan>
-<tspan x="15" y="286.33">                       =@*@@+:  @%%@@@  +@@@@@ :@@*  :@@@           </tspan>
-<tspan x="15" y="300.67">                     *  @@@*@@@+     #@@@@@@@  @@@@- @@@@           </tspan>
-<tspan x="15" y="315.00">                    :    @@%-+:%@@@@@@@%@@@@@ #@@@@@@@@=*           </tspan>
-<tspan x="15" y="329.33">                #%=       =. =@@@@@@@@@@@@@@@ =@@@@@@@@@@@ @@@@@@@@@</tspan>
-<tspan x="15" y="343.67">             -     .=.     #             -@@  @@@@@    @@@@@@@@@@@@@</tspan>
-<tspan x="15" y="358.00">                 .   ::.   %@%#:        @@@  @@@@       @@@@%#@##@@@</tspan>
-<tspan x="15" y="372.33">        .        ... ..:    %@#@@@@@+ #@@@@@@@@  @@     @@@+@@@ @@.@</tspan>
-<tspan x="15" y="386.67">   -+:  .:.:.:..  .    ...   #*+=*%  @@@@@*%*   @@@    =@@@@@  @@@@@</tspan>
-<tspan x="15" y="401.00"> :%:    ........     :-. .:  ==-+##@@@#   .    @@@@    @@@@@   +  @@</tspan>
-<tspan x="15" y="415.33">:    @@  ...::... ..  ..:: :  @@@@#  -     =# %@@@@    @@@@   *@    </tspan>
-<tspan x="15" y="429.67">   . @@@   .:::.     ..  .          @         @@@@@    @@@  : *@-*  </tspan>
-<tspan x="15" y="444.00"> % ..  %@-:....:.     ...:         #=     @  @@@@@  .  @@  :  *%-:: </tspan>
-<tspan x="15" y="458.33">  - .     ........     ..:    .@@. @   @@@- %@@@@@  .   *    -*@@.  </tspan>
-<tspan x="15" y="472.67"> @-  %@@@.   :.....     ..   %+-  .@@@@@@#     @@@  .  @@   --*#  . </tspan>
-<tspan x="15" y="487.00"> -   ==*#@@: ..:::.   .    :#+:      =@@@  *@@# @*  .   @%. +*-=*   </tspan>
-<tspan x="15" y="501.33">  =. ==%@%+  .::..:.     @=*@@+ @@@+@@@@@ .@@**:+  ..       .=*#@   </tspan>
-<tspan x="15" y="515.67"> ...-: :*@+   ...        @  @@@ @*-*-     @@=:-#=  ..  .: ..-#**</tspan></text>
+<rect width="980px" height="560px" fill="#161b22" rx="15"/>
+<text x="15" y="0" fill="#c9d1d9" font-size="9.49px" font-family="monospace" letter-spacing="0">
+<tspan x="15" y="14.00">                                   &gt;&gt;&lt;&lt;&gt;&gt;&gt;&gt;&lt;)&lt;&lt;)                        </tspan>
+<tspan x="15" y="24.53">                             &lt;&lt;&gt;~^)[{[####[[}{}[)&lt;&lt;&lt;&gt;(                  </tspan>
+<tspan x="15" y="35.06">                          )([{{%%%#}[{%%[%@@#%%%#{#{#@{((               </tspan>
+<tspan x="15" y="45.59">                       )[[#%%#)@}{{%%#[%%%]}{}#[#{{%[({{@%              </tspan>
+<tspan x="15" y="56.12">                    ^([%}]%{#}%@#[]}[#{{{#%]{()])[[}#@#{##(             </tspan>
+<tspan x="15" y="66.65">                   ([#%%%{@{{{#@&lt;}%%@%#%@[(@@@@@@@@[%#}%{#]^            </tspan>
+<tspan x="15" y="77.18">                  #@{@@]#}@@@%([%@{(#{}%}{}(%@%%%{]]{@#{{#[[&gt;           </tspan>
+<tspan x="15" y="87.71">                 &lt;{#[)]{@#)}@@@@@@@#%#%@{%@%^{%@@@@@@%#[[#%#[^          </tspan>
+<tspan x="15" y="98.24">                 ]%{@#@#@}@#&gt;&lt;{}}&gt;)}[@[[&gt;)&lt;}@%=(]&lt;&lt;&lt;]]{#@#{{#[*         </tspan>
+<tspan x="15" y="108.78">                &lt;[##%}[][)##{){[%#{[@%@@%@%]@@@@#%@@@%%%##%#{{&lt;         </tspan>
+<tspan x="15" y="119.31">                &lt;{###%%@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@%#####[         </tspan>
+<tspan x="15" y="129.84">                ){##%%@@%()[([{@@@@^:.~]@@@(..=({@%]}]]{#%%##{[         </tspan>
+<tspan x="15" y="140.37">                &gt;##%%@@%[)*+-&lt;}#((^:+-:....:=^*){@{]][{##%{[##(         </tspan>
+<tspan x="15" y="150.90">                )%%%@%(-~*++*&gt;^~--~=+*&gt;^*^*^^&gt;^*=:-=(&gt;&gt;{@@#{#[)         </tspan>
+<tspan x="15" y="161.43">                 {%%[=&gt;^=~==:....-==~--=+~-~*^&lt;&lt;&lt;&lt;&lt;)(&lt;&gt;#@@%##&lt;          </tspan>
+<tspan x="15" y="171.96">                 @@@)^&gt;*@@@@@@@{+..-*^+++^^&lt;&gt;~:....:~+=+}@@#%&lt;          </tspan>
+<tspan x="15" y="182.49">               ...@@)&gt;]@}--^%@@@@@@[=+^&gt;^^=-.~#@@@@@@@^*^^@%}           </tspan>
+<tspan x="15" y="193.02">               #@+-@[&gt;(&lt;(%@%^-.)}[{@#{%%}([@@@@@@@@@@@@[&gt;)@@@           </tspan>
+<tspan x="15" y="203.55">               .){^}])}[}[@@@@@@@@@@@@#@%@@@@%}]&gt;)%#(]}(&gt;}@[..          </tspan>
+<tspan x="15" y="214.08">               .%@@@]&lt;(&gt;+&lt;#@#]&gt;&lt;))(^&gt;^.:]@@@@}@@@&lt;@@@@[}&lt;@@*]@          </tspan>
+<tspan x="15" y="224.61">               ..(}~{&lt;()&gt;+~-=&gt;&lt;+~--*(*:&gt;]--+^#@@%%@}^=*[&gt;{[(]           </tspan>
+<tspan x="15" y="235.14">               ]}:=-{^()&gt;&lt;&gt;^==~-~=*)]^*]}*+=-:.-^*==*)(](@@@~           </tspan>
+<tspan x="15" y="245.67">               .~}%@@^&gt;*=~=+=::~^]]&gt;~:~&gt;)&lt;*~-~~===*^&gt;((&lt;][@..           </tspan>
+<tspan x="15" y="256.20">                :...}}[)&gt;^*=-~[%[..:....-..&lt;@[=~**^^&lt;(^&gt;@&gt;..            </tspan>
+<tspan x="15" y="266.73">                 +*)]}{}(&gt;&gt;*)@@&lt;#@@@@#[@@@@@[@@&gt;+*^+&gt;]}@)~.             </tspan>
+<tspan x="15" y="277.27">                    *([##}]@@)+:-%%@@@@@@@@^:*(@}(([%@%)-               </tspan>
+<tspan x="15" y="287.80">                     *&gt;(}][@@&gt;-&lt;&gt;=:..**.......(){}#@%[)                 </tspan>
+<tspan x="15" y="298.33">                     =()[#+)~@@@@@@@@@@@@@@@@@@%&gt;({}]]*                 </tspan>
+<tspan x="15" y="308.86">                     ~()&lt;#[&lt;=..^&gt;:........:{@::*&gt;[{((((                 </tspan>
+<tspan x="15" y="319.39">                      +][(}]&lt;*)([&lt;=..:~:&gt;&lt;))&gt;~+&lt;}{&lt;&lt;(*                  </tspan>
+<tspan x="15" y="329.92">                       &lt;#)&lt;[[)&lt;)#@@@@@@@@@{)^&lt;({[)][&lt;                   </tspan>
+<tspan x="15" y="340.45">                       -}%(&gt;)^&gt;=-==*^&lt;)((&lt;&gt;^&gt;^&gt;(]#%%                    </tspan>
+<tspan x="15" y="350.98">                       .&gt;{@%}&lt;+===---~-::==:~^(@@[]@)                   </tspan>
+<tspan x="15" y="361.51">                     &lt;%{^}}%@@%)^:..::...:=&lt;}@@@]]){#(&gt;&lt;&lt;^              </tspan>
+<tspan x="15" y="372.04">              *))))[%@@@*]][{{@@@@@@@@@@@@@@@%}[]]]]@%%}[](&lt;&lt;+          </tspan>
+<tspan x="15" y="382.57">           ())]}[](@@#]]&lt;]]]]]]()][#@@@@@%[[[[[][][]@%%}{{[}}]&lt;^+**&lt;&lt;   </tspan>
+<tspan x="15" y="393.10">        ()))[[}%#%@@((([((]][[[[([][[[]]]]][[[[[]]]]@%{{#{}}{{{{}{}}{(&lt;:</tspan>
+<tspan x="15" y="403.63"> )^*^+&gt;(}[[#%}{#}@}^]]]}]]][]][[[[]][][][}}}[]]][(&lt;%@#}}##{{{{}{{{}{{{{+</tspan>
+<tspan x="15" y="414.16">~}{{{{{{{{}###}{}@&lt;:{[[[]]]]][[[[}}(([}}}}[{}[[[]&lt;{@%}}#}[}}{{}}{{{{{}}=</tspan>
+<tspan x="15" y="424.69">={{{##{{}{{{{@%#{@#.}}]][]]]][][][}{%#{}]]]]][](&lt;(@%%}{}}}{}}}}}}{}{{{{=</tspan>
+<tspan x="15" y="435.22">=}{}}}#{}}{{}}[{{@@:+%[[[[[]]][]]((([[]][[}[((&lt;^[@@%}{{}{}}{{{{{{{{{{}}~</tspan>
+<tspan x="15" y="445.76">~}}}{}}##{}}}}}{%%@@~-^(}[[[[[[[[}}[[[}}}[()&gt;&gt;[%@@%}}{}}{{{}}{{}}}}}}}}~</tspan>
+<tspan x="15" y="456.29">~{}}}}}}{{#{{{}[}#%@@@-.-)(((((((][[[]]())&lt;[@@@@@{}}}}{}{}}}{}}{{{}}{}}-</tspan>
+<tspan x="15" y="466.82">~{}}}}}}}[}{{{{}[}}{@@@@{&gt;^^^&gt;&lt;&lt;&lt;)((]][[{@@@@@%{{{{{{{}}{{}}}}}}}}}}}}}~</tspan>
+<tspan x="15" y="477.35">-}{{{}}}}}[}{{{{{}[{{{#@@@@@@@@@##%@@@@@@@@@#]}{#}}}}}}{{{{{{}}}}}{{{{{~</tspan>
+<tspan x="15" y="487.88">~{}}}}{{{{{{}}}}{{}[[}}[[}{%@@@@@@@@%%##{%@}][%#[}}}{}}{{}}}}{{{{{{{{}}~</tspan>
+<tspan x="15" y="498.41">~{{}}{{{{}}}}}}}}}{{{{{{{{}[(#%###{{##{#%@[]%@}[}}{{{{{{}{{{{{}{{}{}}{{~</tspan>
+<tspan x="15" y="508.94">~{{{{{}}}{{{{{{}[[}{[]{}[[}{}}@@@@@@@@@@#([{}[}{{{{{{{}}}{{{}{{{}}}{{}}~</tspan>
+<tspan x="15" y="519.47">.~~~~~~~~~~~~~~~=~-----~~~~==~::::-::::.:**=-~~--~~--~~~~~~~~~~~~~~~~~~.</tspan></text>
 <text x="440" y="30" fill="#c9d1d9">
-<tspan x="440" y="30">miguel@rocha</tspan> -——————————————-—-
-<tspan x="440" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux, Windows 10</tspan>
-<tspan x="440" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................. </tspan><tspan class="value" id="age_data">18 years, 10 months, 22 days</tspan>
-<tspan x="440" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">ArcelorMittal</tspan>
-<tspan x="440" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Intern Software Engineer</tspan>
-<tspan x="440" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">IntelliJ IDEA, VS Code</tspan>
-<tspan x="440" y="150" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Joinville, SC, Brazil</tspan>
-<tspan x="440" y="170" class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">UTC -03:00</tspan>
-<tspan x="440" y="190" class="cc">. </tspan>
-<tspan x="440" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Java, Go, TypeScript</tspan>
-<tspan x="440" y="230" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Spring, Spring Boot</tspan>
-<tspan x="440" y="250" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">PostgreSQL, MySQL, Supabase</tspan>
-<tspan x="440" y="270" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Docker, Git, Linux</tspan>
-<tspan x="440" y="290" class="cc">. </tspan>
-<tspan x="440" y="330">- Contact</tspan> -———————————————-—-
-<tspan x="440" y="350" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">miguelrcha.dev</tspan>
-<tspan x="440" y="370" class="cc">. </tspan><tspan class="key">Folio</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">meufolio.dev</tspan>
-<tspan x="440" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">in/miguelrochaxavier</tspan>
-<tspan x="440" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">github.com/miguelrcha</tspan>
-<tspan x="440" y="450">- GitHub Stats</tspan> -——————————————-—-
-<tspan x="440" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">32</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">68</tspan>
-<tspan x="440" y="490" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">58</tspan> | <tspan class="key">Following</tspan>:<tspan class="cc" id="following_data_dots"> ........ </tspan><tspan class="value" id="following_data">89</tspan>
-<tspan x="440" y="510" class="cc">. </tspan><tspan class="key">Organizations</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">talkbridge-ai, foliohq</tspan>
-<tspan x="440" y="530" class="cc">. </tspan><tspan class="key">Achievements</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Pull Shark, Galaxy Brain, YOLO</tspan>
-<tspan x="440" y="550" class="cc">. </tspan><tspan class="key">Highlight</tspan>:<tspan class="cc"> .................. </tspan><tspan class="addColor">folio</tspan><tspan class="value"> — AI portfolio builder</tspan>
-<tspan x="440" y="570" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots"> ...... </tspan><tspan class="value" id="loc_data">0</tspan> (<tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan>)
+<tspan x="440" y="30">miguelrcha</tspan> -——————————————————————————-
+<tspan x="440" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">macOS, Linux, Windows 10</tspan>
+<tspan x="440" y="70" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Intern Software Engineer</tspan>
+<tspan x="440" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">IntelliJ IDEA, VS Code</tspan>
+<tspan x="440" y="110" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .......... </tspan><tspan class="value" id="age_data">18 years, 10 months, 22 days</tspan>
+<tspan x="440" y="130" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Joinville, SC, Brazil</tspan>
+<tspan x="440" y="150" class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">UTC -03:00</tspan>
+<tspan x="440" y="170" class="cc">. </tspan>
+<tspan x="440" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Java, Go, TypeScript</tspan>
+<tspan x="440" y="210" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Spring, Spring Boot</tspan>
+<tspan x="440" y="230" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">PostgreSQL, MySQL, Supabase</tspan>
+<tspan x="440" y="250" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Docker, Git, Linux</tspan>
+<tspan x="440" y="270" class="cc">. </tspan>
+<tspan x="440" y="310">- Contact</tspan> -———————————————————————————-
+<tspan x="440" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">miguelrcha.dev</tspan>
+<tspan x="440" y="350" class="cc">. </tspan><tspan class="key">Folio</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">meufolio.dev</tspan>
+<tspan x="440" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">in/miguelrochaxavier</tspan>
+<tspan x="440" y="390" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">github.com/miguelrcha</tspan>
+<tspan x="440" y="430">- GitHub Stats</tspan> -——————————————————————-
+<tspan x="440" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">32</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">68</tspan>
+<tspan x="440" y="470" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">58</tspan> | <tspan class="key">Following</tspan>:<tspan class="cc" id="following_data_dots"> ........ </tspan><tspan class="value" id="following_data">89</tspan>
+<tspan x="440" y="490" class="cc">. </tspan><tspan class="key">Achievements</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Pull Shark, Galaxy Brain, YOLO</tspan>
 </text>
 </svg>
