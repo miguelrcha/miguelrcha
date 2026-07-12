@@ -1,0 +1,32 @@
+name: Validate card.svg
+
+on:
+  push:
+    paths:
+      - 'card.svg'
+  pull_request:
+    paths:
+      - 'card.svg'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install lxml
+        run: pip install lxml
+
+      - name: Check card.svg is well-formed XML
+        run: |
+          python3 -c "
+          from lxml import etree
+          etree.parse('card.svg')
+          print('card.svg is well-formed XML')
+          "
