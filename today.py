@@ -252,7 +252,7 @@ def stars_counter(data):
 
 def svg_overwrite(filename, age_data, repo_data, star_data, follower_data, following_data, loc_data):
     """
-    Parses README.md as SVG/XML and updates the stat elements in place.
+    Parses the profile card SVG as XML and updates the stat elements in place.
     """
     tree = etree.parse(filename)
     root = tree.getroot()
@@ -376,7 +376,7 @@ if __name__ == '__main__':
     following_data, following_time = perf_counter(following_getter, USER_NAME)
     formatter('following counter', following_time)
 
-    svg_overwrite('README.md', age_data, repo_data, star_data, follower_data, following_data, total_loc)
+    svg_overwrite('card.svg', age_data, repo_data, star_data, follower_data, following_data, total_loc)
 
     print('Total GitHub GraphQL API calls:', '{:>3}'.format(sum(QUERY_COUNT.values())))
     for funct_name, count in QUERY_COUNT.items():
