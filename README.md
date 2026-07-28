@@ -1,10 +1,13 @@
 <h1> Hi there, I'm Miguel Rocha👋 </h1>
 
+`Software Engineer`
+
 ### 🚀 Projects
 
 **[Folio](https://meufolio.dev/)** — Turn your GitHub into a professional resume with AI</br>
 `Currently in Beta` · `built in 4 day`
 
+---
 
 ### 🧰 Languages and Tools
 
