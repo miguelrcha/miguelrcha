@@ -5,7 +5,10 @@
 ### 🚀 Projects
 
 **[Folio](https://meufolio.dev/)** — Turn your GitHub into a professional resume with AI</br>
-`Currently in Beta` · `built in 4 day`
+`built in 4 day`
+
+**[Rivals](https://rivals-beta-tester.vercel.app/)** — Social platform for friends to compete in Pokémon challenges, track their runs</br>
+`Currently in Beta` · `built in 1 day`
 
 ---
 
