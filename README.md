@@ -32,7 +32,7 @@
 
 ---
 
-### ⭐️ Use now Discord Widget
+### ⭐️ Available now Discord Widget
 
 <!-- Discord Widget — powered by Lanyard (https://github.com/Phineas/lanyard) -->
 <!-- Join https://discord.gg/lanyard with your Discord account so it starts caching your presence. -->
