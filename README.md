@@ -21,12 +21,12 @@
 
 
 <br clear="left"/>
-
+<!-- 
 ---
 
 ### ⭐️ Available now Discord Widget
 
-<!-- Discord Widget — powered by Lanyard (https://github.com/Phineas/lanyard) -->
-<!-- Join https://discord.gg/lanyard with your Discord account so it starts caching your presence. -->
+Discord Widget — powered by Lanyard (https://github.com/Phineas/lanyard) -->
+<!-- Join https://discord.gg/lanyard with your Discord account so it starts caching your presence.
 ![Discord Presence](https://discord-widget-app.vercel.app/api/badge/1538557691570556958?theme=dark)
-
+-->
