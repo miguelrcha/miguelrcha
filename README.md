@@ -2,16 +2,6 @@
 
 `Software Engineer`
 
-### 🚀 Projects
-
-**[Folio](https://meufolio.dev/)** — Turn your GitHub into a professional resume with AI</br>
-`built in 4 day`
-
-**[Rivals](https://rivals-beta-tester.vercel.app/)** — Social platform for friends to compete in Pokémon challenges, track their runs</br>
-`Currently in Beta` · `built in 1 day`
-
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
