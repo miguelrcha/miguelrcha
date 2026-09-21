@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Miguel Rocha👋 </h1>
 
-`Software Engineer`
+`Software Engineer / Software Developer Intern`
 
 ### 🧰 Languages and Tools
 
