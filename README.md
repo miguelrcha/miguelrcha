@@ -15,6 +15,7 @@
 |---|---|---|
 | [**alterion-careers-api**](https://github.com/miguelrcha/alterion-careers-api) | Open-source AI-powered career platform backend. | OpenAI API integration |
 | [**meu-folio**](https://github.com/miguelrcha/folio) | Developer portfolio platform with GitHub integration, Supabase authentication and ATS-friendly CV generation. | AI-assisted career tools and portfolio generation |
+| [**notebook**](https://notebook.miguelrcha.dev) | Real-time collaborative notes and whiteboard app with a live markdods, inline comments, live chat,PDF/Word/Markdown import and export, and 8 languages. | Built with Claude Code (AI-assisted development) |
 
 ### Languages and Tools
 
